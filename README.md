@@ -1,0 +1,2 @@
+# War_Game_K2_Foundations_Project
+The program simulates the "War" card game in which 2 players battle to win all of the cards in the deck.  The game was constructed based on the rules described on Wikipedia (https://en.wikipedia.org/wiki/War_(card_game)).  For simplicity, however, the winner of the game is not the player that wins the entire deck, but the player that has the most cards after one full round is played (26 cards per player).  This repository consists of the Python script that was used to develop the game.
